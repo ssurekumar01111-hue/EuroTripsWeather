@@ -54,5 +54,5 @@ The UI uses a **clean frost-glass design (Theme A)** inspired by iOS/macOS desig
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ssure.kumar01111-hue/EuroTripsWeather.git
+git clone https://github.com/ssurekumar01111-hue/EuroTripsWeather.git
 cd EuroTripsWeather
